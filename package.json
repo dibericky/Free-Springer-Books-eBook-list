@@ -1,0 +1,19 @@
+{
+  "name": "free-springer-books-ebook-list",
+  "version": "1.0.0",
+  "description": "source: https://docs.google.com/spreadsheets/d/1HzdumNltTj2SHmCv3SRdoub8SvpIEn75fa4Q23x0keU/htmlview",
+  "main": "index.js",
+  "scripts": {
+    "start": "node download-all.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dibericky/Free-Springer-Books-eBook-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dibericky/Free-Springer-Books-eBook-list/issues"
+  },
+  "homepage": "https://github.com/dibericky/Free-Springer-Books-eBook-list#readme"
+}
